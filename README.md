@@ -15,7 +15,7 @@ L'animation visualise la réponse d'un système simple à un changement de consi
 
 ## Technologies utilisées
 
-*   **Python 3.x**
+*   **Python 3.12.9**
 *   **Matplotlib** : Pour le tracé des graphiques et la création de l'animation (`FuncAnimation`).
 *   **NumPy** : Pour les calculs numériques et la manipulation de tableaux.
 *   **FFmpeg** : Nécessaire pour sauvegarder l'animation au format MP4 (doit être installé séparément et accessible dans le PATH de votre système).
